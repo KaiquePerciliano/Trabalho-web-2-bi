@@ -1,0 +1,47 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.titulo {
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-check-input:checked {
+    background-color: #007bff;
+}
+
+.form-check-label {
+    padding-left: 10px;
+}
+
+.form-control {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.background-rosa {
+    background-color: pink;
+}
+
+.background-blue {
+    background-color: blue;
+}
+
+
